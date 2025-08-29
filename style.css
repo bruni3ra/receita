@@ -31,6 +31,6 @@ body {
     border-radius: 5px;
 }
 
-h1 {
-    justify-content: center;
+.h1 {
+    text-align: center;
 }
