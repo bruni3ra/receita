@@ -9,7 +9,10 @@ body {
 }
 
 .texto {
-    text-decoration: white;
+    color: white;
+    padding-right: 20px;
+    padding-right: 2em;
+    align-self: center;
 }
 
 .img {
