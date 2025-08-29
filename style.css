@@ -1,9 +1,7 @@
-* {
-    border: 0;
-
+.secao {
+    background-color: red;
 }
 
 .texto {
-    background-color: yellow;
     text-align: center;
 }
