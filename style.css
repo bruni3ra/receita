@@ -4,6 +4,8 @@ body {
 
 .secao {
     background-color: red;
+    color: black;
+    text-align: center;
 }
 
 .texto {
