@@ -6,6 +6,15 @@ body {
 .secao {
     background-color: rgb(202, 103, 103);
     color: rgb(255, 255, 255);
+    max-width: 1200px;
+    margin-top: 20px;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0, 2);
+    /*border-radius: 9px;*/
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding: 20px;
    
 }
 
