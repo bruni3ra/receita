@@ -13,9 +13,9 @@ body {
     /*border-radius: 9px;*/
     display: flex;
     justify-content: left;
-    align-items: center;
+    
     padding: 20px;
-   
+    
 }
 
 .texto {
