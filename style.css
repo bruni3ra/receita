@@ -30,6 +30,7 @@ body {
     margin: 25px;
     border-radius: 5px;
     display: flex;
+    display: inline-block;
 
 }
 
