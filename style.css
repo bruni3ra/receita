@@ -29,8 +29,7 @@ body {
     width: 20px;
     margin: 25px;
     border-radius: 5px;
-    display: flex;
-    display: inline-block;
+   
 
 }
 
@@ -40,8 +39,12 @@ body {
 
 .imagens img{
 width: 50%;
+ display: flex;
+    display: inline-block;
 }
 
 .imagens {
     width: 25%;
+     display: flex;
+    display: inline-block;
 }
