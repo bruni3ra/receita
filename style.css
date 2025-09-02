@@ -25,6 +25,12 @@ body {
     align-self: center;
 }
 
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+
 .img {
     padding: top;
     width: 20px;
@@ -35,10 +41,6 @@ body {
 
 }
 
-.h1 {
-    text-align: center;
-    font-size: 40px;
-}
 
 .imagens img{
 width: 50%;
