@@ -14,8 +14,7 @@ body {
     /*border-radius: 9px;*/
     justify-content: left;
     padding: 20px;
-     display: flex;
-    display: inline-block;
+     
     
 }
 
@@ -47,6 +46,4 @@ width: 50%;
 
 .imagens {
     width: 25%;
-     display: flex;
-    display: inline-block;
 }
