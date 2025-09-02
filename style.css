@@ -35,3 +35,11 @@ body {
 .h1 {
     text-align: center;
 }
+
+.imagens img{
+width: 100%;
+}
+
+.imagens {
+    width: 50%;
+}
